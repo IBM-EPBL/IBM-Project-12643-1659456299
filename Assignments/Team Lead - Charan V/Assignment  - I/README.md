@@ -1,3 +1,3 @@
-### click here to view it live [Charanquartz.github.io][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### click here to view it live [quartzcharan.github.io][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[website]: https://charanquartz.github.io
+[website]: https://quartzcharan.github.io/

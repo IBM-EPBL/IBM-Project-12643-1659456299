@@ -2,6 +2,8 @@
 
 [website]: https://quartzcharan.github.io/
 
-<img  src="https://github.com/charanquartz/charanquartz/blob/main/c.gif" />
+<img  src="https://github.com/IBM-EPBL/IBM-Project-12643-1659456299
+Public
+" />
 <img  src="https://github.com/charanquartz/charanquartz/blob/main/c.gif" />
 <img  src="https://github.com/charanquartz/charanquartz/blob/main/c.gif" />

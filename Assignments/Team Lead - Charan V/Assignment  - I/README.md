@@ -3,5 +3,5 @@
 [website]: https://quartzcharan.github.io/
 
 
-<img  src="https://quartzcharan.github.io/images/quartzcharan.github.io.png" />
+<img  src="https://quartzcharan.github.io/images/quartzcharan.github.io.pn0g" />
 

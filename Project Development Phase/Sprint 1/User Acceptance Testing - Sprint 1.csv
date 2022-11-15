@@ -1,0 +1,35 @@
+﻿Test case ID,Feature Type,Component,Test Scenario,Steps to Execute
+SignUpPage_PDA_001,Functional,Sign Up page,Verify the user is able to see the Sign up page when the user clicks the signup button in navigation bar,"1. Enter the url and go
+2.Click the sign up link in the navigation bar.
+3.Verify the sign up page is visible or not."
+SignUpPage_PDA_002,UI,Sign Up page,Verify the UI elements in the Sign up page,"1. Enter the url and go
+2.Click the sign up link in the navigation bar.
+3.Verify the below mentioned ui elements:
+a.name text box
+b. email text box.
+c. password text box.
+d. repeat password text box.
+e. sign up button
+"
+SignUpPage_PDA_003,Functional,Sign Up page,Verify the user is able to register into the application by providing valid details,"1. Enter the url and go
+2.Click the sign up link in the navigation bar.
+3.Enter valid details in the text boxes.
+4. Verify the confirmation message.
+
+"
+SignInPage_PDA_001,Functional,Sign In page,Verify the user is able to see the sign in page when the user clicks the signin button in navigation bar,"1. Enter the url and go
+2.Click the sign in link in the navigation bar.
+3.Verify the sign in page is visible or not."
+SignInPage_PDA_002,UI,Sign In page,Verify the UI elements in the Sign in page,"1. Enter the url and go
+2.Click the sign in link in the navigation bar.
+3.Verify the below mentioned ui elements:
+a. email text box.
+b. password text box.
+c. sign in button
+"
+SignInPage_PDA_003,Functional,Sign In page,Verify the user is able to login into the application by providing valid details,"1. Enter the url and go
+2.Click the sign in link in the navigation bar.
+3.Enter valid details in the text boxes.
+4. Verify the user is able to login.
+
+"

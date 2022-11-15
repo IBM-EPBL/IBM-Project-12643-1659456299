@@ -1,0 +1,7 @@
+﻿Test case ID,Feature Type,Component,Test Scenario,Steps to Execute
+StatsPage_TC_001,Functional,Stats Page,Verify the user is able to see the stats page when the user clicks the stage page link in navigation bar,"1. Enter the url and go
+2.Click the stats page link in the navigation bar.
+3.Verify the stats page is visible or not"
+Chatbot_TC_001,Functional,Home Page,Verify the user is able to interact with the chatbot,"1. Enter the url and go
+2.Click the chatbot icon in the home page
+3.Verify the chatbot is working or not "

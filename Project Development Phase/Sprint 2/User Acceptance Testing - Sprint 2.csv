@@ -1,0 +1,43 @@
+﻿Test case ID,Feature Type,Component,Test Scenario,Steps to Execute
+DonorRegistrationPage_PDA_001,Functional,Donor Registration Page,Verify the user is able to see the Donor registration page when the user clicks the donate link in navigation bar,"1. Enter the url and go
+2.Click the donate link in the navigation bar.
+3.Verify the donor registration page is visible or not."
+DonorRegistrationPage_PDA_002,UI,Donor Registration Page,Verify the UI elements in the Donor Registration page,". Enter the url and go
+2.Click the donate link in the navigation bar.
+3.Verify the below mentioned ui elements:
+a.  name text box
+b. email text box.
+c. blood group text box.
+d. contact number text box.
+e. city text box
+f. register as donor button
+
+"
+DonorRegistrationPage_PDA_003,Functional,Donor Registration Page,Verify the user is able toregister as a donor by providing valid details,"1. Enter the url and go
+2.Click the donate link in the navigation bar.
+3.Enter valid details in the text boxes.
+4. Click the donate button.
+4. Verify the user is able to register as a donor sucessfully.
+
+"
+RequestPage_PDA_001,Functional,Request Page,Verify the user is able to see the request page when the user clicks the request link in navigation bar,"1. Enter the url and go
+2.Click the request link in the navigation bar.
+3.Verify the request page is visible or not."
+RequestPage_PDA_002,UI,Request Page,Verify the UI elements in the request page,". Enter the url and go
+2.Click the request link in the navigation bar.
+3.Verify the below mentioned ui elements:
+a.  name text box
+b. email text box.
+c. blood group text box.
+d. contact number text box.
+e. city text box
+f. make a request button
+
+"
+RequestPage_PDA_003,Functional,Request Page,Verify the user is able to make a request by providing valid details,"1. Enter the url and go
+2.Click the request link in the navigation bar.
+3.Enter valid details in the text boxes.
+4. Click the request button.
+4. Verify the user is able to make a request sucessfully.
+
+"

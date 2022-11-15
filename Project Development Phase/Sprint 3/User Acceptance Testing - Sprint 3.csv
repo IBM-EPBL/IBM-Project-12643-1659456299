@@ -1,0 +1,29 @@
+﻿Test case ID,Feature Type,Component,Test Scenario,Steps to Execute
+Notication_PDA_001,Functional,Sign up page,Verify the user gets a email notification when they sign up,"1. Enter the url and go
+2. Go to the sign up page.
+3. Enter the details and click sign up button
+4.  Verify if they get the email on successfull sign up"
+Notication_PDA_002,Functional,Request Page,Verify the donor gets a email notification when they make a request,"1. Enter the url and go
+2. Go to the request page.
+3. Enter the details and click  make a request button
+4.  Verify if the donor gets the email on successfully making a request."
+Notication_PDA_003,Functional,Profile Page,Verify the donor and recipient gets a email notification when the donor accepts the request,"1. Enter the url and go
+2. Go to the profile page
+3.Accept the pending request.
+4.  Verify if they get the email containing contact details"
+SignInPage_PDA_001,Functional,Sign In page,Verify the user is able to see the sign in page when the user clicks the signin button in navigation bar,"1. Enter the url and go
+2.Click the sign in link in the navigation bar.
+3.Verify the sign in page is visible or not."
+SignInPage_PDA_002,UI,Sign In page,Verify the UI elements in the Sign in page,"1. Enter the url and go
+2.Click the sign in link in the navigation bar.
+3.Verify the below mentioned ui elements:
+a. email text box.
+b. password text box.
+c. sign in button
+"
+SignInPage_PDA_003,Functional,Sign In page,Verify the user is able to login into the application by providing valid details,"1. Enter the url and go
+2.Click the sign in link in the navigation bar.
+3.Enter valid details in the text boxes.
+4. Verify the user is able to login.
+
+"

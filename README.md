@@ -1,5 +1,5 @@
 <a href="https://github.com/IBM-EPBL/IBM-Project-12643-1659456299">
- <img src="https://res.cloudinary.com/charanquartz/image/upload/v1668626329/IBM-PlasmaDonar/plasmadonar.gif">
+ <center><img src="https://res.cloudinary.com/charanquartz/image/upload/v1668626329/IBM-PlasmaDonar/plasmadonar.gif"></center>
 </a>
 
 #  Team ID : PNT2022TMID20350
